@@ -83,7 +83,7 @@ const config: Config = {
           label: 'Docs',
         },
         {
-          href: '',
+          href: 'https://github.com/MarieBonifacio/postman-training',
           label: 'GitHub',
           position: 'right',
         },
