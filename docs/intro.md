@@ -2,7 +2,7 @@
 id: sommaire-global
 title: "Sommaire global de la formation Postman"
 sidebar_position: 0
-slug: /postman       
+slug: /intro       
 --------------
 
 # 🚀 Sommaire global – Formation Postman complète
