@@ -2,7 +2,6 @@
 
 title: "Industrialisation & Governance"
 sidebar\_position: 11
-slug: /postman/industrialisation-governance
 -------------------------------------------
 
 # 11. Industrialisation & Governance 🛠️📏

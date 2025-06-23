@@ -2,7 +2,6 @@
 
 title: "Introduction à la formation Postman"
 sidebar\_position: 0
-slug: /postman
 --------------
 
 # Bienvenue dans la formation **Postman** 📨

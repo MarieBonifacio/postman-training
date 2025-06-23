@@ -2,7 +2,6 @@
 
 title: "Data‑Driven & Contract Testing"
 sidebar\_position: 7
-slug: /postman/data-driven-contract
 -----------------------------------
 
 # 7. Data‑Driven & Contract Testing 📊

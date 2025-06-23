@@ -2,7 +2,6 @@
 
 title: "Authentification avancée (Bearer, OAuth 2.0, Hawk, AWS SigV4)"
 sidebar\_position: 5
-slug: /postman/auth-avancee
 ---------------------------
 
 # 5. Authentification avancée – Bearer, OAuth 2.0, Hawk, AWS SigV4

@@ -2,7 +2,6 @@
 
 title: "Première requête HTTP & Collections"
 sidebar\_position: 3
-slug: /postman/premiere-requete-collections
 -------------------------------------------
 
 # 3. Première requête HTTP & Collections

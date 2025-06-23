@@ -2,7 +2,6 @@
 
 title: "Monitoring, Orchestration & Alerting"
 sidebar\_position: 8
-slug: /postman/monitoring-alerting
 ----------------------------------
 
 # 8. Monitoring, Orchestration & Alerting ⏰

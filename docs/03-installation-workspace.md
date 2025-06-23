@@ -2,7 +2,6 @@
 
 title: "Installation, Workspace & UI Deep‑Dive"
 sidebar\_position: 2
-slug: /postman/installation-workspace
 -------------------------------------
 
 # 2. Installation, Workspace & UI Deep‑Dive

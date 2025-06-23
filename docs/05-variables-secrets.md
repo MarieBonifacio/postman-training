@@ -2,7 +2,6 @@
 
 title: "Variables & Secrets Management"
 sidebar_position: 4
-slug: /postman/variables-secrets
 --------------------------------
 
 # 4. Variables & Secrets Management

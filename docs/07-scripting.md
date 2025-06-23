@@ -2,7 +2,6 @@
 
 title: "JavaScript Scripting : du basique au Ninja"
 sidebar\_position: 6
-slug: /postman/scripting-ninja
 ------------------------------
 
 # 6. JavaScript Scripting – du basique au Ninja 👾

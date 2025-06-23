@@ -2,7 +2,6 @@
 
 title: "Mock Servers, Service Virtualization & Chaos Testing"
 sidebar\_position: 9
-slug: /postman/mock-chaos
 -------------------------
 
 # 9. Mock Servers, Service Virtualization & Chaos Testing 🧪

@@ -2,7 +2,6 @@
 
 title: "Génération de documentation & Publication"
 sidebar\_position: 10
-slug: /postman/doc-generation
 -----------------------------
 
 # 10. Génération de documentation & Publication 📚

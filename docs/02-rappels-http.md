@@ -2,7 +2,6 @@
 
 title: "Rappels HTTP & Architecture API"
 sidebar\_position: 1
-slug: /postman/rappels-http
 ---------------------------
 
 # 1. Rappels HTTP & Architecture API
